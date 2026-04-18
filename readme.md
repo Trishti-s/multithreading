@@ -33,4 +33,7 @@ The assignment focuses on analyzing the performance of multithreading using matr
   - Thread management overhead
   - CPU core limitations
   - Context switching
+ 
+  <img width="568" height="419" alt="image" src="https://github.com/user-attachments/assets/7a2a8584-1037-4f16-96aa-b3a84629871c" />
+
 
